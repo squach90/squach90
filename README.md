@@ -1,5 +1,18 @@
+### 👋 Hi, I’m @squach90 ###
+
+## 📖 About me
+
+* 💻 I'm a indie Game Dev
+* 🎨 I can draw a little bit of sprtie
+* 📱 I make game with Godot
+* 🎓 I'm a Computer Science student (graduating in October 2021)
+* 🌐 You can see some of my projects on [my_itch io pages](https://squach90.itch.io)
+* 😄 Pronouns: he/him
+* ⚡ Fun fact: N/A
+
+
 - 👋 Hi, I’m @squach90
-- 👀 I’m interested in GODOT 4.0
+- 
 - 🌱 I’m currently learning GODOT 4.0 & 3ds Homebrew
 - 💞️ I’m looking to collaborate on Godot 4.0 and Homebrew projects for 3ds
 - 📫 How to reach me N/A
