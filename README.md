@@ -1,5 +1,7 @@
 ### 👋 Hi, I’m @squach90 ###
 
+A Indie GameDev
+
 ## 📖 About me
 
 * 💻 I'm a indie Game Dev
